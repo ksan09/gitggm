@@ -1,0 +1,20 @@
+아무말이나 쳐보래서 써보는 아무말입니다.
+
+저장 단축키 : Ctrl + S
+저장 습관 들이기 ( 작업하고 저장하기 )
+
+Ctrl + ~ ( 터미널 창 열기 )
+
+git init : 해당 폴더를 깃에서 관리하는 폴더로 초기화 시킨다
+
+// 깃허브 아이디
+git config --global user.name "ksan09"
+// 깃허브 이메일
+git config --global user.email "kansan060223@gmail.com"
+
+--global 빼면 이 폴더에서만
+
+파일변경시 -> 스테이징 처리 -> 커밋으로 저장
+스테이징 명령어 : git add 파일명
+
+git commit -m "쓰고싶은 메시지"
