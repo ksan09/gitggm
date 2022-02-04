@@ -18,3 +18,5 @@ git config --global user.email "kansan060223@gmail.com"
 스테이징 명령어 : git add 파일명
 
 git commit -m "쓰고싶은 메시지"
+
+아무거나 수정
