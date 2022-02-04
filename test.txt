@@ -28,3 +28,5 @@ ctrl + enter
 돌아오기 : git checkout master
 git checkout은 시점, 브랜치를 변경할 수 있다
 브랜치명을 쓸 경우 (ex.master) 해당 브랜치의 최신버전으로 이동한다.
+
+강산
