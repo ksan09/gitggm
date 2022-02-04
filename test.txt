@@ -21,3 +21,5 @@ git commit -m "쓰고싶은 메시지"
 
 아무거나 수정
 다시 한 번 아무거나 수정
+
+ctrl + enter
